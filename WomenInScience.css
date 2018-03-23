@@ -1,0 +1,117 @@
+body{
+	background-color: #364b56;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#page1{
+	width: 500px;
+	height: 700px;
+	background-color: black;
+	margin: 10px 50px 0px 180px;
+	background-image: url("MarieCurie.jpg");
+	position: fixed;
+}
+#abovetitle1{
+	color: white;
+	font-size: 13px;
+	text-transform: lowercase;
+	text-align: center;
+	margin-top: 0px;
+	letter-spacing: 15px;
+}
+#title1{
+	color: white;
+	font-size: 50px;
+	text-transform: uppercase;
+	text-align: center;
+	letter-spacing: 5px;
+}
+#sprite{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 6%;
+}
+#conteudo{
+	margin: 250px 220px 20px 0px;
+}
+#text1{
+	color: white;
+	font-size: 20px;
+	text-transform: lowercase;
+	margin-right: 220px;
+}
+#hr2{
+	width: 200px;
+	margin-left: 10px;
+}
+#readmore{
+	font-family: "Courier New", Courier, monospace;
+	color: white;
+	 background-color: Transparent;
+	 border: none;;
+	position: absolute;
+    margin:  0px 400px 20px 0px;
+    width: 200px;
+    text-transform: uppercase;
+    height: 100px;
+}
+#page2{
+width: 500px;
+	height: 200px;
+	background-color: #ecc8b0;
+	margin: 10px 50px 0px 680px;
+	position: fixed;
+	font-family: "Courier New", Courier, monospace;
+}
+#title2{
+	color: white;
+	font-size: 40px;
+	letter-spacing: 5px;
+	text-align: center;
+	text-transform: lowercase;
+}
+#page3{
+	width: 500px;
+	height: 500px;
+	background-color: black;
+	margin: 210px 50px 0px 680px;
+	position: fixed;
+	background-image: url("peggy.jpg");
+}
+#title3{
+margin-top: 100px;
+color: white;
+font-size: 30px;
+text-transform: uppercase;
+text-align: right;
+letter-spacing: 5px;
+
+}
+#hr3{
+	width: 200px;
+	margin-left: 295px; 
+}
+#text2{
+	color: white;
+	font-size: 15px;
+	text-transform: lowercase;
+	margin-left:300px;
+}
+#sprite2{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 6%;
+}
+#readmore2{
+	font-family: "Courier New", Courier, monospace;
+	color: white;
+	 background-color: #ecc8b0;
+	 border: none;
+	 font-size: 17px;
+	position: absolute;
+    margin:  0px 50px 20px 300px;
+    width: 200px;
+    text-transform: uppercase;
+    height: 80px;
+}
